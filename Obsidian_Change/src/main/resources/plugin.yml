@@ -1,0 +1,20 @@
+name: obsidian_change
+version: 2.0.0
+main: com.script.obsidian_change.obsidian_change
+api-version: 1.21
+author: cyx012113
+description: Obsidian Change Powder - Convert obsidian to planks after a short delay
+
+commands:
+  obsidian:
+    description: Manage Obsidian Change Powder
+    usage: /obsidian give [player] obsidian_change_powder [amount]
+    permission: obsidian.admin
+    
+permissions:
+  obsidian.admin:
+    description: Use /obsidian command
+    default: op
+  obsidian.use:
+    description: Use Obsidian Change Powder
+    default: true

@@ -1,0 +1,26 @@
+# Obsidian Change Powder Configuration
+
+# Delay before conversion (in ticks, 20 ticks = 1 second)
+conversion-time-ticks: 60
+
+# Cooldown after using the powder (in seconds)
+cooldown-seconds: 5
+
+# Result block material (any valid Bukkit Material, e.g., OAK_PLANKS, STONE)
+result-block: OAK_PLANKS
+
+# Customizable messages (use & for color codes)
+messages:
+  must-look-obsidian: "&cYou must look at obsidian to use!"
+  cooldown: "&cSkill on cooldown, remaining {seconds} seconds"
+  already-converting: "&cYou already have an ongoing conversion!"
+  start-conversion: "&eStarting obsidian conversion, please wait {seconds} seconds..."
+  success: "&aObsidian successfully converted to {result}!"
+  failed: "&cConversion failed: target block has been changed or destroyed."
+  usage-give: "&cUsage: /obsidian give [player] obsidian_change_powder [amount]"
+  unknown-item: "&cUnknown item: {item}"
+  player-not-online: "&cPlayer {player} is not online!"
+  given: "&aGiven {player} {amount} Obsidian Change Powder"
+  received: "&aYou have received {amount} Obsidian Change Powder"
+  console-must-specify: "&cConsole must specify player name: /obsidian give <player> obsidian_change_powder [amount]"
+  amount-integer: "&cAmount must be an integer!"
