@@ -1,6 +1,6 @@
 # Obsidian Change Powder Plugin
 
-[![CC BY-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc.svg)](https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt)
+[![CC BY-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt)
 
 **Version 2.0.0** – A lightweight Paper/Spigot plugin that lets players convert obsidian into wooden planks using a special powder.
 
