@@ -1,10 +1,6 @@
 # Obsidian Change Powder Plugin
 
-<<<<<<< Updated upstream
-[![CC BY-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt)
-=======
 [MIT License](https://mit-license.org/)
->>>>>>> Stashed changes
 
 Starting from version `2.0.0 + MIT`, the source code license has been changed from CC BY-SA 4.0 to the MIT license.
 
