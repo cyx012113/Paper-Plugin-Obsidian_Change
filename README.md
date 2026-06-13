@@ -81,7 +81,7 @@ messages:
 
 ## License
 
-This plugin is licensed under CC BY-SA 4.0. You are free to share and adapt it, but must give appropriate credit and share under the same license.
+This plugin is licensed under **MIT**.
 
 ## Support
 
